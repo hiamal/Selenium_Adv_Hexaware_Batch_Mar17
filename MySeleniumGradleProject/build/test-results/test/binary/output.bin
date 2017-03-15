@@ -1,0 +1,19 @@
+	Locator
+LocatorValue
+	Keyword
+Parameter
+id
+
+username
+
+typeText
+<UID>
+id
+
+password
+
+typeText
+<PWD>
+id
+login
+click

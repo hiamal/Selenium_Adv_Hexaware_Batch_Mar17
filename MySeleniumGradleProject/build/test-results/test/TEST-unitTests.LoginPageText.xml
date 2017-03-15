@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unitTests.LoginPageText" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-15T05:15:26" hostname="HVDSEL12" time="1.517">
+  <properties/>
+  <testcase name="readExcel" classname="unitTests.LoginPageText" time="1.517"/>
+  <system-out><![CDATA[Locator
+LocatorValue
+Keyword
+Parameter
+id
+username
+typeText
+<UID>
+id
+password
+typeText
+<PWD>
+id
+login
+click
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
